@@ -6,8 +6,8 @@ A screenshot of the console output immediately after you have successfully deplo
 
 The transaction hash from the contract deployment (in text format).
 
-- Transaction hash: 0x73c8b102d07e97710709d54a136b77157ff598b8e0a9990d2e28666240623c50
+- Transaction hash: 0x9e89571af375d625d792f149feb7db77f55855e79d52b92af6e7e9ecf1eb2a1f
 
 The deployed contract address from the contract deployment (in text format).
 
-- Deployed contract address: 0x2A7042753458C0ebfda71a3d17F85f5dfd6Fa5C6
+- Deployed contract address: 0xa72dE1C3059DF8461Af4C2D858E93242a3e0E80c
